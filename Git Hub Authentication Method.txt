@@ -1,0 +1,18 @@
+Git token Authentication Method-->
+
+1. Generating Personal Token =
+        click on Profile icon on github
+        then click on "Developer" form sidebar menu
+        then click "Personal Access Tokens"
+         then click on "Generate New Token"
+         then it will ask your github password Enter it
+         next it will ask name of the token and expiration of the token
+         and the scope of the token.
+         there is a "Generate Token" button  Click on it .
+         it will generate your personal token.
+2. Setup Personal token in your Origin
+         in the git cli
+         enter :
+         git remote set-url origin https://username:token@github.com/username/repo_name.git
+         now you can push your project to github:
+         git push -u origin main
