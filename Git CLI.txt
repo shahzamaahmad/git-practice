@@ -3,4 +3,9 @@ Git Commands-->
 git init --> To initialize git in the project
 git status --> Show status of the files
 git add . --> To add all files to the staged area
-git add -A --> to
+git add -A --> To add all files to the staged area
+git add index.html --> add a spicific file
+git commit -m "Your Commit Message " --> commiting files with Message
+git commit -a -m "Message" --> skipping the staging area
+git rm file.js --> Delete file from staging area and working area
+git rm --cached --> delete file from staging area
