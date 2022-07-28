@@ -1,0 +1,4 @@
+1. Why Node.js is beter than other ? like python,ruby,laravel etc..
+2. Whats is Solid Principle and the use of solid principle in real world?
+3. What is Unery Operator?
+4. Prototype Inheritance- with code example
