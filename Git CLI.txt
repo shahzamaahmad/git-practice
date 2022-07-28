@@ -1,0 +1,6 @@
+Git Commands-->
+
+git init --> To initialize git in the project
+git status --> Show status of the files
+git add . --> To add all files to the staged area
+git add -A --> to
