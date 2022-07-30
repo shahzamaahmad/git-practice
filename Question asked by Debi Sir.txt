@@ -4,5 +4,6 @@
 4. Prototype Inheritance- with code example
 5. Constructor function in javascript.
 6. Object methods in javascript
-7. shallow copy and deep copy
-8. TASK:- JS code of the day CLI application
+7. Object calss methods
+8. shallow copy and deep copy
+9. TASK:- JS code of the day CLI application
