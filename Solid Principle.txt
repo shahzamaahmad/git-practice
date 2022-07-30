@@ -1,0 +1,6 @@
+Solid Principle:-
+S:-Single Responsibility
+O:-Open/Closed
+L:-Liskov Subsititution
+I:-Interface Segregation
+D:-Dependency Inversion
